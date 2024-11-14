@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldClock.Logic", "WorldClock.Logic\WorldClock.Logic.csproj", "{1129DB52-8625-47B3-80C5-A34900D348BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldClock.ConApp", "WorldClock.ConApp\WorldClock.ConApp.csproj", "{8F29233B-0536-4436-AFB9-A9AD7EA24E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1129DB52-8625-47B3-80C5-A34900D348BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1129DB52-8625-47B3-80C5-A34900D348BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1129DB52-8625-47B3-80C5-A34900D348BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1129DB52-8625-47B3-80C5-A34900D348BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F29233B-0536-4436-AFB9-A9AD7EA24E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F29233B-0536-4436-AFB9-A9AD7EA24E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F29233B-0536-4436-AFB9-A9AD7EA24E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F29233B-0536-4436-AFB9-A9AD7EA24E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8E044C-B374-46AE-B841-D3C3B205728E}
+	EndGlobalSection
+EndGlobal
